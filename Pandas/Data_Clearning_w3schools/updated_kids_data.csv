@@ -1,0 +1,21 @@
+Name,Age,City,Favorite_Color,School_Grade,English_Marks,Maths_Marks,Science_Marks,History_Marks
+Alice,12.0,New York,Blue,A,85.0,90.0,92.0,88.0
+Bob,,Los Angeles,Green,B,78.0,55555.0,80.0,75.0
+Charlie,10.0,Chicago,Red,A,92.0,85.0,88.0,90.0
+David,11.0,,Yellow,A,80.0,82.0,84.44444444444444,85.0
+Emily,12.0,Miami,Blue,B,82.94117647058823,88.0,90.0,92.0
+Frank,11.0,Dallas,Green,C,75.0,70.0,72.0,78.0
+Grace,10.0,Seattle,,A,85.0,90.0,92.0,84.875
+Henry,13.0,Boston,Blue,B,88.0,85.0,90.0,88.0
+Isabel,11.0,Portland,Red,C,72.0,55555.0,75.0,80.0
+Jack,12.0,Houston,Green,A,90.0,92.0,88.0,85.0
+Kate,,San Francisco,Yellow,B,85.0,80.0,78.0,84.875
+Liam,10.0,Denver,Blue,A,92.0,88.0,90.0,92.0
+Mia,11.0,Atlanta,Green,B,78.0,80.0,84.44444444444444,75.0
+Nathan,12.0,Phoenix,Red,C,82.94117647058823,75.0,72.0,78.0
+Olivia,12.0,New Orleans,Yellow,A,90.0,85.0,88.0,90.0
+Peter,11.0,Minneapolis,Blue,B,85.0,90.0,92.0,84.875
+Quinn,10.0,Philadelphia,Green,C,72.0,75.0,78.0,80.0
+Rachel,13.0,Detroit,Red,A,88.0,92.0,85.0,90.0
+Sam,12.0,San Diego,Blue,B,82.94117647058823,88.0,90.0,92.0
+Taylor,11.0,Washington DC,Green,C,75.0,78.0,80.0,84.875
