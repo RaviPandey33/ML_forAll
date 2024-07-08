@@ -1,5 +1,4 @@
-# ML_forAll
-ML for beginners. In this we will see some code related to basics of ML. 
+# ML_forAll DataCamp 2024
 
 You can clone the repository directly using this link : 
 
